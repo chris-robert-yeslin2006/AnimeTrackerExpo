@@ -1,49 +1,87 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">🎌 AnimeTrackerExpo 📱</h1>
 
-###
+<p align="center">
+  A minimalistic anime episode tracker built using <strong>React Native + Expo</strong> — no internet, no fluff. Just you and your anime.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-React%20Native%20Expo-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Storage-LocalStorage-orange?style=for-the-badge" />
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 📖 About the Project
 
-###
+> Do you often forget what anime episode you left off at?  
+> AnimeTrackerExpo is your personal anime tracking companion that runs entirely offline!  
+> - No APIs  
+> - No backend  
+> - Just local storage and anime love ❤️
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+With features to **add anime**, **track current episodes**, and **auto-increment total episodes weekly** for ongoing anime, this app is designed to keep your anime journey on point 🎯.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🚀 Features
 
-###
+- 📝 Add your favorite anime to a personal list
+- 🔼 Increase/decrease current episode count using quick actions
+- 📦 Stores data locally using React Native AsyncStorage
+- 🗓️ Weekly auto-update: adds 1 episode/week for ongoing anime
+- 🌓 Simple, clean and focused design
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🛠️ Built With
 
-###
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/)
+
+---
+
+## 📸 Screenshots
+
+> *(Add your app screenshots here)*  
+> Example:  
+> `![App Screenshot](./assets/screenshot1.png)`
+
+---
+
+## 🧑‍💻 Getting Started
+
+Follow these steps to run the app locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/chris-robert-yeslin2006/AnimeTrackerExpo.git
+
+# 2. Navigate into the project folder
+cd AnimeTrackerExpo
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the Expo development server
+npx expo start
+📱 You can then scan the QR code using the Expo Go app on your mobile device to run it instantly!
+
+🎯 Use Case
+Chris built this for personal use because — like many anime fans — he kept forgetting which episode he stopped at. This offline tracker is a practical and clean solution to that.
+
+🤝 Contributions
+Contributions are currently closed.
+This is a personal project still in progress.
+Feel free to fork for personal use or inspiration!
+
+📬 Contact
+Feel free to connect or follow:
+
+📧 robertchemist2006@gmail.com
+
+📷 Instagram – @yeslin_parker
+
+💼 LinkedIn – Chris Robert Yeslin
+
+<p align="center">✨ Built with love by Chris Robert Yeslin ✨</p> ```
